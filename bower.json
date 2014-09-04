@@ -1,0 +1,16 @@
+{
+  "name": "blogAngular",
+  "version": "0.0.0",
+  "description": "blog made with Angular",
+  "authors": [
+    "Margaret"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
